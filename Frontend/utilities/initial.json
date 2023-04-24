@@ -1,0 +1,202 @@
+{
+    "dayOrder": [ 
+        "Monday 1", "Monday 2", "Monday 3", "Monday 4", "Monday 5", "Monday 6", "Monday 7", "Monday 8",
+        "Tuesday 1", "Tuesday 2", "Tuesday 3", "Tuesday 4", "Tuesday 5", "Tuesday 6", "Tuesday 7", "Tuesday 8",
+        "Wednesday 1", "Wednesday 2", "Wednesday 3", "Wednesday 4", "Wednesday 5", "Wednesday 6", "Wednesday 7", "Wednesday 8",
+        "Thursday 1", "Thursday 2", "Thursday 3", "Thursday 4", "Thursday 5", "Thursday 6", "Thursday 7", "Thursday 8",
+        "Friday 1", "Friday 2", "Friday 3", "Friday 4", "Friday 5", "Friday 6", "Friday 7", "Friday 8"
+    ],
+    "timeTable": [
+        {
+            "DayOrder" : "Monday",
+            "Period 1" : "",
+            "Period 2" : "",
+            "Period 3" : "",
+            "Period 4" : "",
+            "Period 5" : "",
+            "Period 6" : "",
+            "Period 7" : "",
+            "Period 8" : ""
+        },
+        {
+            "DayOrder" : "Tuesday",
+            "Period 1" : "",
+            "Period 2" : "",
+            "Period 3" : "",
+            "Period 4" : "",
+            "Period 5" : "",
+            "Period 6" : "",
+            "Period 7" : "",
+            "Period 8" : ""
+    
+        },
+        {
+            "DayOrder" : "Wednesday",
+            "Period 1" : "",
+            "Period 2" : "",
+            "Period 3" : "",
+            "Period 4" : "",
+            "Period 5" : "",
+            "Period 6" : "",
+            "Period 7" : "",
+            "Period 8" : ""
+        },
+        {
+            "DayOrder" : "Thursday",
+            "Period 1" : "",
+            "Period 2" : "",
+            "Period 3" : "",
+            "Period 4" : "",
+            "Period 5" : "",
+            "Period 6" : "",
+            "Period 7" : "",
+            "Period 8" : ""
+        },
+        {
+            "DayOrder" : "Friday",
+            "Period 1" : "",
+            "Period 2" : "",
+            "Period 3" : "",
+            "Period 4" : "",
+            "Period 5" : "",
+            "Period 6" : "",
+            "Period 7" : "",
+            "Period 8" : ""
+        }
+    ],
+    "branches": {
+        "CIVIL": "Civil Engineering",
+        "MECH": "Mechanical Engineering",
+        "PROD": "Production Engineering",
+        "ECE": "Electronics and Communication Engineering",
+        "EEE": "Electrical and Electronics Engineering",
+        "EIE": "Electronics and Instrumentation Engineering",
+        "CSE": "Computer Science Engineering",
+        "IT": "Information Technology",
+        "IBT": "Industrial Biotechnology"
+    },
+    "metadata": {
+        "sem": 1,
+        "batch": "",
+        "regulation": "",
+        "begin": "",
+        "end": "",
+        "ut": {
+            "count": "",
+            "duration": "",
+            "marks": "",
+            "retestCount": "",
+            "contribution": ""
+        },
+        "assignment": {
+            "marks": "",
+            "count": "",
+            "contribution": ""
+        },
+        "tutorial": {
+            "marks": "",
+            "count": "",
+            "contribution": ""
+        },
+        "schedule": {
+            "opened": false,
+            "periodCount": "",
+            "periodDuration": "",
+            "isDayOrder": false,
+            "workingDaysPerWeek": ""
+        },
+        "freeze": {
+            "internal": "",
+            "attendance": ""
+        },
+        "valueAddedCourse": [
+            {
+                "regular": "",
+                "lateral": "",
+                "transfer": "",
+                "type": "Value Added Course"
+            },
+            {
+                "regular": "",
+                "lateral": "",
+                "transfer": "",
+                "type": "Activity Points"
+            }
+        ],
+        "facultyAdvisor": [],
+        "condonation": "",
+        "enrollment": {
+            "status": false,
+            "start": "",
+            "end": ""
+        },
+        "courseRegistration": {
+            "status": false,
+            "start": "",
+            "end": ""
+        },
+        "addOnEligible": false,
+        "downloadHallticket": false
+    },
+    "student": {
+        "register": "",
+        "regulation": "",
+        "batch": "",
+        "degree": "",
+        "branch": "",
+        "section": "",
+        "currentSemester": "",
+        "email": "",
+        "mobile": "",
+        "firstName": "",
+        "lastName": "",
+        "dob": "",
+        "type": "",
+        "status": ""
+    },
+    "faculty": {
+        "facultyId": "",
+        "type": "",
+        "email": "",
+        "mobile": "",
+        "primaryRole": "",
+        "branch": "",
+        "title": "",
+        "firstName": "",
+        "lastName": "",
+        "address": ""
+    },
+    "courses": {
+        "courseCode": "",
+        "title": "",
+        "type": "",
+        "requirement": "",
+        "category": "",
+        "marks": {
+            "ca": "",
+            "sem": ""
+        },
+        "hours": {
+            "lecture": "",
+            "tutorial": "",
+            "practical": "",
+            "credits": ""
+        },
+        "semester": "",
+        "regulation": "",
+        "branch": ""
+    },
+    "electives":{
+        "branch":"",
+        "regulation":"",
+        "semester":"",
+        "oe":"",
+        "pe":""
+    },
+    "feedback":{
+        "courseType":"",
+        "number":1,
+        "question":"",
+        "type":""
+    }
+}
